@@ -32,5 +32,3 @@ git clone https://github.com/basi90/React-tic-tac-toe.git
 cd tic-tac-toe
 npm install
 npm run dev
-
-
