@@ -23,7 +23,7 @@ A web-based Tic-Tac-Toe game that allows for two players to play against each ot
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/basi90/React-tic-tac-toe.git
 cd tic-tac-toe
 npm install
 
