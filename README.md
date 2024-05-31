@@ -18,6 +18,11 @@ A web-based Tic-Tac-Toe game that allows for two players to play against each ot
 - Node.js
 - npm or Yarn
 
+### Acknowledgements
+
+- React
+- Socket.IO(for potential mutliplayer feature)
+
 ### Installation
 
 Clone the repo and install dependencies:
@@ -26,4 +31,6 @@ Clone the repo and install dependencies:
 git clone https://github.com/basi90/React-tic-tac-toe.git
 cd tic-tac-toe
 npm install
+npm run dev
+
 
